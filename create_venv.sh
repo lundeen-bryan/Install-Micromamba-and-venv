@@ -1,4 +1,32 @@
 #!/bin/bash
+# Auto updated?
+#   Yes
+# Modified:
+#   Saturday, February 3, 2024 9:37:20 PM PST
+#
+# The snippet above is from an Ext from TheRepoClub called File Header Generator
+# ==========================================================================================
+# Procedure: ......... create_venv.sh/Procedurename
+# Description: ....... description
+# Version: ........... 1.0.0 - major.minor.patch
+# Created: ........... 2024-02-03
+# Updated: ........... 2024-02-03
+# Module URL: ........ weburl
+# Installs to: ....... udemy_by_number/Install Micromamba and venv
+# Compatibility: ..... Excel,Word,etc.
+# Contact Author: .... author
+# Copyright:  ........ company © 2024. All rights reserved.
+# Parameters: ........ name(type): param_description
+# Returns: ........... type param_description
+# Preconditions: ..... precondition
+# Calls To: .......... procedure
+# Called By: ......... procedure
+# Examples: .......... _
+#  (1) examples_here
+# Notes: ............. _
+#  (1) notes_here
+# ===========================================================================================
+
 
 # Start logging session
 exec > >(tee "install_log.txt") 2>&1

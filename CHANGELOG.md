@@ -1,5 +1,10 @@
 # Changelog
 
+ Auto updated?
+  Yes
+ Modified:
+  SSaturday, February 3, 2024 9:50:14 PM PST
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog],
@@ -9,23 +14,13 @@ and this project adheres to [Semantic Versioning].
 
 - /
 
-## [0.0.2] - 2024-01-06
+## [1.0.1] - 2024-02-03
 
 ### Added
 
--
+- docstring for create_venv.sh to indicate changes
 
-### Changed
-
-### Deprecated
-
-### Removed
-
-### Fixed
-
-### Security
-
-## [0.0.1] - 2024-01-06
+## [1.0.0] - 2024-01-06
 
 - initial release
 
